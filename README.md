@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Aman gupta
 A passionate Developer
 🔭 I’m currently working on React-based Web Projects & Portfolio Website<br><br>🤝 I’m looking to collaborate on Open Source, MERN Stack Projects, and Hackathons<br><br>💡 I’m looking for help with Optimizing performance in React and mastering MongoDB<br><br>🌱 I’m currently learning MongoDB, Node.js, and mastering frontend UI/UX<br><br>💬 Ask me about Web Development, JavaScript, and GitHub Tricks
 
